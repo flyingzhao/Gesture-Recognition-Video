@@ -3,6 +3,7 @@
 <p><strong>平台</strong></br>
 Visual Studio 2010</br>
 OpenCV 2.4.10</br>
+##结果
 流程图<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-Video/blob/master/result/flowchart.jpg)<br>
 测试结果<br/>
