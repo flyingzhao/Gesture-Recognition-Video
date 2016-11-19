@@ -1,11 +1,12 @@
-#»ùÓÚÊÓÆµµÄÊÖÊÆÊ¶±ğËã·¨
-Ê¹ÓÃHOG+SVM¼ì²âÍ¼ÏñÖĞµÄÊÖÊÆÇøÓò£¬Ê¹ÓÃCamshaftËã·¨×·×Ù¡£</br>
-<p><strong>Æ½Ì¨</strong></br>
+#åŸºäºè§†é¢‘çš„æ‰‹åŠ¿è¯†åˆ«ç®—æ³•
+[English Version](https://github.com/flyingzhao/Gesture-Recognition-Video/blob/master/English.md)
+ä½¿ç”¨HOG+SVMæ£€æµ‹å›¾åƒä¸­çš„æ‰‹åŠ¿åŒºåŸŸï¼Œä½¿ç”¨Camshiftç®—æ³•è¿½è¸ªã€‚</br>
+<p><strong>å¹³å°</strong></br>
 Visual Studio 2010</br>
 OpenCV 2.4.10</br>
-##½á¹û
-Á÷³ÌÍ¼<br/>
+##ç»“æœ
+æµç¨‹å›¾<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-Video/blob/master/result/flowchart.jpg)<br>
-²âÊÔ½á¹û<br/>
+æµ‹è¯•ç»“æœ<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-Video/blob/master/result/video.jpg)<br>
 
