@@ -1,6 +1,5 @@
 #Video based gesture recognition
 
---------------
 
 Detect hand region with HOG+SVM, and track with CamShift
 
